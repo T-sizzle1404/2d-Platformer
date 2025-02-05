@@ -35,11 +35,11 @@
   },
   "name":"TyreeEdGame",
   "resources":[
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"Floor","path":"objects/Floor/Floor.yy",},},
+    {"id":{"name":"Ob_player","path":"objects/Ob_player/Ob_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"IDLE","path":"sprites/IDLE/IDLE.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
