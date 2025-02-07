@@ -37,8 +37,10 @@
   "resources":[
     {"id":{"name":"Floor","path":"objects/Floor/Floor.yy",},},
     {"id":{"name":"Ob_player","path":"objects/Ob_player/Ob_player.yy",},},
+    {"id":{"name":"Ob_pu","path":"objects/Ob_pu/Ob_pu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"IDLE","path":"sprites/IDLE/IDLE.yy",},},
+    {"id":{"name":"Shard","path":"sprites/Shard/Shard.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
   ],
   "resourceType":"GMProject",
